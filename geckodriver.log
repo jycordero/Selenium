@@ -1,0 +1,192 @@
+1567197741072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DnHVifpuWkbZ"
+1567197741449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567197741450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567197741450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567197741450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567197742828	Marionette	INFO	Listening on port 40211
+1567197742877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567197765946	Marionette	INFO	Stopped listening on port 40211
+1567197768317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hGIwunZObib4"
+1567197768696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567197768696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567197768697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567197768697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567197770188	Marionette	INFO	Listening on port 33779
+1567197770233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567197806422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WAKZ6czHdar7"
+1567197806791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567197806791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567197806791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567197806791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567197808199	Marionette	INFO	Listening on port 44087
+1567197808246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567197812848	Marionette	INFO	Stopped listening on port 44087
+[Parent 32263, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 32263, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567197821203	Marionette	INFO	Stopped listening on port 33779
+1567197848270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WFokBnsrU97T"
+1567197848655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567197848655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567197848656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567197848656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567197850105	Marionette	INFO	Listening on port 41181
+1567197850177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567197855526	Marionette	INFO	Stopped listening on port 41181
+1567197989901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6jKxB1KFcLvy"
+1567197990268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567197990268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567197990269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567197990269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567197991672	Marionette	INFO	Listening on port 40665
+1567197991707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567190349275%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567198161960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X0Zv3IU72Fgl"
+1567198162328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567198162328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567198162328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567198162328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567198163746	Marionette	INFO	Listening on port 42381
+1567198163765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567198176119	Marionette	INFO	Stopped listening on port 42381
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 523, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 523, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1567201400342	Marionette	INFO	Stopped listening on port 40665
+1567203025631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fNYilx8bqBKH"
+1567203026005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203026005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203026005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203026005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203027475	Marionette	INFO	Listening on port 45363
+1567203027537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203032506	Marionette	INFO	Stopped listening on port 45363
+1567203211682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FapFjFKvp8nA"
+1567203212056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203212056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203212056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203212056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203213540	Marionette	INFO	Listening on port 38925
+1567203213590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203218462	Marionette	INFO	Stopped listening on port 38925
+1567203239913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Dp2VO2WtvnRL"
+1567203240299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203240299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203240299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203240299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203241904	Marionette	INFO	Listening on port 44241
+1567203241968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203246829	Marionette	INFO	Stopped listening on port 44241
+1567203285459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eJujE1px2HOS"
+1567203285842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203285842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203285842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203285842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203287378	Marionette	INFO	Listening on port 32997
+1567203287493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203292455	Marionette	INFO	Stopped listening on port 32997
+1567203295053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2KyUevssTO2m"
+1567203295438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203295438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203295439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203295439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203296879	Marionette	INFO	Listening on port 34071
+1567203297046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203301813	Marionette	INFO	Stopped listening on port 34071
+1567203304451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k4R64dyEl1nP"
+1567203304833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203304833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203304833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203304833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203306240	Marionette	INFO	Listening on port 43561
+1567203306270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+Exiting due to channel error.
+1567203362791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cGmDENkWlLtq"
+1567203363175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203363176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203363176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203363176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203364633	Marionette	INFO	Listening on port 44111
+1567203364705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203366477	Marionette	INFO	Stopped listening on port 44111
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 601: TypeError: this.tablesData[table] is undefined
+1567203413522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uC3NReOgH3MU"
+1567203413888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203413888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203413888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203413888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203415375	Marionette	INFO	Listening on port 44281
+1567203415430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203417438	Marionette	INFO	Stopped listening on port 44281
+1567203532919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hlt1hiVQALxq"
+1567203533289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203533289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203533289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203533289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203534738	Marionette	INFO	Listening on port 42057
+1567203534861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203536823	Marionette	INFO	Stopped listening on port 42057
+1567203602554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IYv95TDWruvj"
+1567203602915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203602915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203602916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203602916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203604410	Marionette	INFO	Listening on port 46853
+1567203604460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203606169	Marionette	INFO	Stopped listening on port 46853
+1567203626858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.88fyTdEYEKrz"
+1567203627225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203627226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203627226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203627226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203628694	Marionette	INFO	Listening on port 37631
+1567203628767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203630511	Marionette	INFO	Stopped listening on port 37631
+1567203825567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XtWqld830eOY"
+1567203825943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203825943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203825943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203825943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203827364	Marionette	INFO	Listening on port 37127
+1567203827373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203829099	Marionette	INFO	Stopped listening on port 37127
+1567203903101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dHjc5Ru4UBBr"
+1567203903502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567203903502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567203903503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567203903503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567203904892	Marionette	INFO	Listening on port 33085
+1567203904910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cda.harvard.edu/chaser/chaser.js, line 95: TypeError: totcolEvt is null
+1567203906695	Marionette	INFO	Stopped listening on port 33085
