@@ -10,9 +10,15 @@ sudo conda install selenium
 ```
 # Dependancies 
 
-If you get an error of a missing driver *geckdriver*
+If you get an error of a missing driver *geckodriver*
 
 You need to go to the following link (https://github.com/mozilla/geckodriver/releases) and get the latest geckdriver.
+
+I move it to my /usr/local/bin and changed it's permission to be excecutable
+
+```
+sudo chmod +x /usr/local/bin/geckodriver
+```
 
 # Structure
 
