@@ -18,4 +18,9 @@ You need to go to the following link (https://github.com/mozilla/geckodriver/rel
 
 In the exmaple folder you can try to run a simple code (called *test.py* ) that tries to open a FireFox web browser with the ubuntu.com webpage. You can test that your installation is correct by trying to run it.
 
+# Testing
+
+For testing purpouses you might need to turn on the switch to give access to "less secure app acess" (https://myaccount.google.com/lesssecureapps) :heavy_exlamation_mark: . Make sure you switch it back once testing is done.
+
+Also do not :x: hardecode your password in the code. SPECIAL carefull if you push a commit with the hardcoded password
 
